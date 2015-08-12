@@ -88,9 +88,9 @@ ultimateide:collection-hooks@0.7.14
 ultimateide:event-sync@0.1.0
 ultimateide:live-update-plus@0.0.1
 ultimateide:tabular@1.2.3
-ultimateide:ultimate@0.2.1
+ultimateide:ultimate@0.3.1
 ultimateide:ultimate-mvc@0.0.21
-ultimateide:ultimate-ui@0.0.3
+ultimateide:ultimate-ui@0.0.4
 underscore@1.0.3
 url@1.0.4
 webapp@1.2.0

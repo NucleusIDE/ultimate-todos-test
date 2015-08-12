@@ -1,0 +1,23 @@
+* What?
+Just a minimally modified version of meteor todos example for test driving UltimateIDE (formerly NucleusIDE)
+
+* How to use?
+- Clone the repo
+
+  #+begin_src bash
+  git clone git@github.com:NucleusIDE/ultimate-todos-test.git
+  #+end_src
+
+- Upgrade ultimateide:ultimate
+
+  #+begin_src bash
+  meteor update ultimateide:ultimate
+  #+end_src
+
+- Run meteor
+
+  #+begin_src bash
+  meteor
+  #+end_src
+
+- You're good to go now. To open UltimateIDE, just click on the Icon in bottom right corner in todos app and UltimateIDE will open in new window (cmd+click for opening in new tab)
